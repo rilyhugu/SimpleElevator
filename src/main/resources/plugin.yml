@@ -1,0 +1,4 @@
+name: SimpleElevator
+version: '${version}'
+main: com.github.rilyhugu.simpleelevator.SimpleElevator
+api-version: '1.21'
